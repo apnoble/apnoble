@@ -1,4 +1,4 @@
-### Hi there 👋
+I am a software engineer with close to two years of professional experience in tech and over five years of management experience outside of the field. 
 
 <!--
 **apnoble/apnoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
